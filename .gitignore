@@ -1,5 +1,6 @@
 # Datos Procesados
 data/processed
+html/
 
 # Modelos Entrenados
 *.pkl
